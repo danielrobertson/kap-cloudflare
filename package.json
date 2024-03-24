@@ -1,0 +1,22 @@
+{
+  "name": "kap-cloudflare",
+  "version": "0.1.0",
+  "description": "Share Kap videos on Cloudflare",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielrobertson/kap-cloudflare.git"
+  },
+  "keywords": [
+    "kap-plugin"
+  ],
+  "author": "danielrobertson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielrobertson/kap-cloudflare/issues"
+  },
+  "homepage": "https://github.com/danielrobertson/kap-cloudflare#readme"
+}
