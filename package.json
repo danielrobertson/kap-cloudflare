@@ -11,7 +11,10 @@
     "url": "git+https://github.com/danielrobertson/kap-cloudflare.git"
   },
   "keywords": [
-    "kap-plugin"
+    "cloudflare",
+    "kap-plugin",
+    "share",
+    "upload"
   ],
   "author": "danielrobertson",
   "license": "MIT",
